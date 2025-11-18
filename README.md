@@ -1,4 +1,4 @@
-# @apifence/agent
+# apifence-agent
 
 Express.js SDK for **APIFence** — automatic request and error monitoring with security detection.
 
